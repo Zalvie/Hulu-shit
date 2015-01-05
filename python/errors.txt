@@ -1,0 +1,3 @@
+400 - Service got ddosed I guess? Or if u do the request wrongfully
+500 - Blocked fully
+200 - Got in or blocked via geocheck.
