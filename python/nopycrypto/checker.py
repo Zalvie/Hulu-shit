@@ -1,8 +1,7 @@
 #!/usr/local/bin/python
 
 import hmac, operator, time, random, urllib2, md5
-import aes, sys, math
-
+import AES, math
 
 def decrypt(cipherIn, key, IV):
     iput = output = ciphertext = []
